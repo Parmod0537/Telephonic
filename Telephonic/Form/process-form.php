@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Telephonic | Confirmation </title>
-		<meta name="author" content="Pooja" />
+		<meta name="author" content="Parmod" />
 		<meta name="description" content="Telephone promoting website" />
 		<link rel="stylesheet" href="../css/style.css" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
