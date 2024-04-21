@@ -6,7 +6,7 @@
 		<meta charset="utf-8" />
     <!--     Providing  the title of the page-->
 		<title>Telephonic | Buy</title>
-		<meta name="author" content="Pooja" />
+		<meta name="author" content="Parmod" />
 		<meta name="description" content="Telephone promoting website" />
 		 <!--     Importing from Files -->
     <link rel="stylesheet" href="../css/style.css" />
